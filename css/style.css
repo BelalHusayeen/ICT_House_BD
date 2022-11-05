@@ -135,3 +135,21 @@ body{
 }
 
 /* feature end */
+
+/* Call to action start */
+.calltoaction{
+  color: #fff;
+  background-image: url("../img/calltoaction.png");
+}
+.call_p1{
+  padding-top: 50px;
+}
+.call_p2{
+  padding-bottom: 50px;
+  line-height: 20px;
+}
+.call_d h1{
+  font-size: 40px;
+  font-weight: 700;
+}
+/* Call to action end */
