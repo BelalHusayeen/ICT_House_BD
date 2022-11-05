@@ -26,6 +26,10 @@
     padding: 10px 0 0px !important;
     text-align: right;
   }
+    .about_img {
+    text-align: center;
+    margin-top: -50px;
+}
 }
 
 /* Large devices (desktops, 992px and up) */
