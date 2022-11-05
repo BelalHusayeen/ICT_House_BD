@@ -105,7 +105,10 @@ body{
 /* About Us end */
 
 /* feature start */
-.feature{}
+.feature{
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
 .c_title{}
 .c_p{
   line-height: 30px;
