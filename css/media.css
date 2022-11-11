@@ -18,20 +18,65 @@
     padding: 10px 0 0px !important;
     text-align: right;
   }
+  /* .............Banner start........... */
+  .banner_h1 {
+    font-size: 35px;
+    line-height: 45px;
+}
+.banner_btn {
+  margin-top: 0px;
+  width: 100px;
+  height: 35px;
+}
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) { 
   .menu ul li a{
-    padding: 10px 0 0px !important;
+    padding: 15px 0 0px !important;
     text-align: right;
   }
-    .about_img {
+  .banner_h1 {
+    font-size: 40px;
+}
+/* About us start */
+.aboutus {
+  padding-top: 60px;
+}
+.about_text {
+  text-align: center;
+}
+.about_h1 {
+  font-size: 40px;
+}
+  .about_img {
     text-align: center;
     margin-top: -50px;
 }
+/* About Us End */
+/* Feature Section Start */
+.feature {
+  padding-top: 70px;
 }
+.c_h1 {
+  font-size: 40px;
+}
+.f_item {
+  text-align: center;
+  padding: 25px;
+}
+/* Feature Section End */
 
+/* Call to action start */
+.calltoaction {
+  margin-top: 0px;
+  padding: 0px 0;
+}
+.call_h1 {
+  font-size: 35px;
+}
+/* call to action end */
+}
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {}
 
